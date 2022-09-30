@@ -8,7 +8,7 @@
 
 ### Sample Image
 
-![Sample One](./20%20questions/Pic1.png)
+![Sample One](./20%20solution/task1.png)
 
 ### Tasks
 
@@ -17,6 +17,8 @@
 ### Output
 
 ![Output](./20%20questions/Pic2.png)
+
+### Solution
 
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
@@ -82,7 +84,7 @@
 
 ### Output
 
-![Output](./20%20questions/Pic9.png)
+![Output](./20%20solution/task5.png)
 
 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 

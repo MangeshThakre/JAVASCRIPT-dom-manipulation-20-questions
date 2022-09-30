@@ -4,8 +4,12 @@
 // Tasks
 //     Target the Top description div and change the DEV Community to <Your_Name> and description to your passion
 
-const heading = document.querySelector(".crayons-card .crayons-subtitle-2");
-heading.innerHTML = "Mangesh Thakre";
-const description = document.querySelector(".crayons-card .color-base-70");
-description.innerHTML =
+// target the head
+const heading = document.querySelectorAll(".crayons-subtitle-2")[1];
+// target the description
+const description = document.querySelectorAll(".color-base-70")[1];
+
+//
+heading.textContent = "Mangesh Thakre";
+description.textContent =
   "I’m focused on building responsive applications while learning back-end technologies.";
