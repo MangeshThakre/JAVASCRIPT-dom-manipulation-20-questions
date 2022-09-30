@@ -8,7 +8,7 @@
 
 ### Sample Image
 
-![Sample One](./20%20solution/task1.png)
+![Sample One](./20%20questions/Pic1.png)
 
 ### Tasks
 
@@ -16,7 +16,7 @@
 
 ### Output
 
-![Output](./20%20questions/Pic2.png)
+![Output](./20%20solution/task1.png)
 
 ### Solution
 
